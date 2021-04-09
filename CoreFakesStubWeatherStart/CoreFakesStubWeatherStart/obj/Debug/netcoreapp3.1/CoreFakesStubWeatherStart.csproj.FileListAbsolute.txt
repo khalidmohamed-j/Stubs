@@ -1,0 +1,36 @@
+C:\Users\denni\OneDrive\2021.01 ISIT 324\Programs\00 - Assignments\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\bin\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.deps.json
+C:\Users\denni\OneDrive\2021.01 ISIT 324\Programs\00 - Assignments\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\bin\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.dll
+C:\Users\denni\OneDrive\2021.01 ISIT 324\Programs\00 - Assignments\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\bin\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.pdb
+C:\Users\denni\OneDrive\2021.01 ISIT 324\Programs\00 - Assignments\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\bin\Debug\netcoreapp3.1\SpacecraftInterface.dll
+C:\Users\denni\OneDrive\2021.01 ISIT 324\Programs\00 - Assignments\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\bin\Debug\netcoreapp3.1\SpacecraftInterface.pdb
+C:\Users\denni\OneDrive\2021.01 ISIT 324\Programs\00 - Assignments\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\obj\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.csprojAssemblyReference.cache
+C:\Users\denni\OneDrive\2021.01 ISIT 324\Programs\00 - Assignments\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\obj\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.AssemblyInfoInputs.cache
+C:\Users\denni\OneDrive\2021.01 ISIT 324\Programs\00 - Assignments\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\obj\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.AssemblyInfo.cs
+C:\Users\denni\OneDrive\2021.01 ISIT 324\Programs\00 - Assignments\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\obj\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.csproj.CoreCompileInputs.cache
+C:\Users\denni\OneDrive\2021.01 ISIT 324\Programs\00 - Assignments\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\obj\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.csproj.CopyComplete
+C:\Users\denni\OneDrive\2021.01 ISIT 324\Programs\00 - Assignments\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\obj\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.dll
+C:\Users\denni\OneDrive\2021.01 ISIT 324\Programs\00 - Assignments\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\obj\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.pdb
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\Stubs\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\bin\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.deps.json
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\Stubs\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\bin\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.dll
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\Stubs\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\bin\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.pdb
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\Stubs\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\bin\Debug\netcoreapp3.1\SpacecraftInterface.dll
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\Stubs\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\bin\Debug\netcoreapp3.1\SpacecraftInterface.pdb
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\Stubs\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\obj\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.csprojAssemblyReference.cache
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\Stubs\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\obj\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.AssemblyInfoInputs.cache
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\Stubs\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\obj\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.AssemblyInfo.cs
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\Stubs\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\obj\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.csproj.CoreCompileInputs.cache
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\Stubs\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\obj\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.csproj.CopyComplete
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\Stubs\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\obj\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.dll
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\Stubs\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\obj\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.pdb
+C:\Users\khali\Downloads\Mohamed-CoreFakesStubWeatherEnd\Mohamed-CoreFakesStubWeatherEnd\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\bin\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.deps.json
+C:\Users\khali\Downloads\Mohamed-CoreFakesStubWeatherEnd\Mohamed-CoreFakesStubWeatherEnd\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\bin\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.dll
+C:\Users\khali\Downloads\Mohamed-CoreFakesStubWeatherEnd\Mohamed-CoreFakesStubWeatherEnd\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\bin\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.pdb
+C:\Users\khali\Downloads\Mohamed-CoreFakesStubWeatherEnd\Mohamed-CoreFakesStubWeatherEnd\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\bin\Debug\netcoreapp3.1\SpacecraftInterface.dll
+C:\Users\khali\Downloads\Mohamed-CoreFakesStubWeatherEnd\Mohamed-CoreFakesStubWeatherEnd\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\bin\Debug\netcoreapp3.1\SpacecraftInterface.pdb
+C:\Users\khali\Downloads\Mohamed-CoreFakesStubWeatherEnd\Mohamed-CoreFakesStubWeatherEnd\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\obj\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.csprojAssemblyReference.cache
+C:\Users\khali\Downloads\Mohamed-CoreFakesStubWeatherEnd\Mohamed-CoreFakesStubWeatherEnd\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\obj\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.AssemblyInfoInputs.cache
+C:\Users\khali\Downloads\Mohamed-CoreFakesStubWeatherEnd\Mohamed-CoreFakesStubWeatherEnd\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\obj\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.AssemblyInfo.cs
+C:\Users\khali\Downloads\Mohamed-CoreFakesStubWeatherEnd\Mohamed-CoreFakesStubWeatherEnd\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\obj\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.csproj.CoreCompileInputs.cache
+C:\Users\khali\Downloads\Mohamed-CoreFakesStubWeatherEnd\Mohamed-CoreFakesStubWeatherEnd\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\obj\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.csproj.CopyComplete
+C:\Users\khali\Downloads\Mohamed-CoreFakesStubWeatherEnd\Mohamed-CoreFakesStubWeatherEnd\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\obj\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.dll
+C:\Users\khali\Downloads\Mohamed-CoreFakesStubWeatherEnd\Mohamed-CoreFakesStubWeatherEnd\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\obj\Debug\netcoreapp3.1\CoreFakesStubWeatherStart.pdb

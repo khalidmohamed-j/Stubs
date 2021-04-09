@@ -1,0 +1,1 @@
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\Stubs\CoreFakesStubWeatherStart\CoreFakesStubWeatherStart\WeatherTest\Fakes\SpacecraftInterface01.fakes : warning : Cannot generate stub for SpacecraftInterface.Telemetry: Type has no Constructors visible to the assembly. The Constructor itself or a parameter may not be visible..
